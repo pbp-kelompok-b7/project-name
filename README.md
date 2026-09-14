@@ -82,9 +82,13 @@ Supply Listing / Resource Request → Reservation → Pickup → Completed
 
 ## Pembagian Modul
 [Module 1](#module-1): [Fiqhi](#kolaborator)
+
 [Module 2](#module-2): [Kaysan](#kolaborator)
+
 [Module 3](#module-3): [Evan](#kolaborator)
+
 [Module 4](#module-4): [Nabila](#kolaborator)
+
 [Shared Foundation](#shared-foundation): [Fiqhi](#kolaborator)
 
 ## Public API
